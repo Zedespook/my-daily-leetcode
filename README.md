@@ -2,6 +2,8 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
+**Current Daily Streak: 30 days** 🔥
+
 ## What is LeetCode?
 
 [LeetCode](https://leetcode.com) is a platform for preparing technical coding interviews. It features a vast collection of coding challenges covering various topics including algorithms, data structures, database queries, and system design.
