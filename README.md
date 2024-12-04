@@ -49,6 +49,7 @@ leetcode-solutions/
 | 2024-11-28 | 2290           | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)                                   | [Solution](2290-minimum-obstacle-removal-to-reach-corner/solution.cpp)                  |
 | 2024-11-29 | 2577           | [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)                                       | [Solution](2577-minimum-time-to-visit-a-cell-in-a-grid/solution.cpp)                    |
 | 2024-11-30 | 2097           | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)                                                               | [Solution](2097-valid-arrangement-of-pairs/solution.cpp)                                |
+| 2024-12-01 | 1346           | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)                                                     | [Solution](1346-check-if-n-and-its-double-exist/solution.cpp)                           |
 
 ## Technical Details
 
