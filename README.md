@@ -42,6 +42,7 @@ leetcode-solutions/
 | 2024-11-21 | 2257           | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)                                                 | [Solution](2257-count-unguarded-cells-in-the-grid/solution.cpp)                         |
 | 2024-11-22 | 1072           | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)                         | [Solution](1072-flip-columns-for-maximum-number-of-equal-rows/solution.cpp)             |
 | 2024-11-23 | 1861           | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/)                                                                                   | [Solution](1861-rotating-the-box/solution.cpp)                                          |
+| 2024-11-24 | 1975           | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)                                                                               | [Solution](1975-maximum-matrix-sum/solution.cpp)                                        |
 
 ## Technical Details
 
