@@ -24,6 +24,7 @@ leetcode-solutions/
 | Date       | Problem Number | Problem                                                                                                                                               | Solution                                                                                |
 | ---------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 2024-11-05 | 2914           | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Solution](2914-minimum-number-of-changes-to-make-binary-string-beautiful/solution.cpp) |
+| 2024-11-06 | 3011           | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/)                                                             | [Solution](3011-find-if-array-can-be-sorted/solution.cpp)                               |
 
 ## Technical Details
 
