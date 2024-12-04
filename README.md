@@ -48,6 +48,7 @@ leetcode-solutions/
 | 2024-11-27 | 3243           | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)                     | [Solution](3243-shortest-distance-after-road-addition-queries-i/solution.cpp)           |
 | 2024-11-28 | 2290           | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)                                   | [Solution](2290-minimum-obstacle-removal-to-reach-corner/solution.cpp)                  |
 | 2024-11-29 | 2577           | [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)                                       | [Solution](2577-minimum-time-to-visit-a-cell-in-a-grid/solution.cpp)                    |
+| 2024-11-30 | 2097           | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)                                                               | [Solution](2097-valid-arrangement-of-pairs/solution.cpp)                                |
 
 ## Technical Details
 
