@@ -27,6 +27,7 @@ leetcode-solutions/
 | 2024-11-06 | 3011           | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/)                                                             | [Solution](3011-find-if-array-can-be-sorted/solution.cpp)                               |
 | 2024-11-07 | 2275           | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/)       | [Solution](2275-largest-combination-with-bitwise-and-greater-than-zero/solution.cpp)    |
 | 2024-11-08 | 1829           | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)                                                               | [Solution](1829-maximum-xor-for-each-query/solution.cpp)                                |
+| 2024-11-09 | 3133           | [Minimum Array End](https://leetcode.com/problems/minimum-array-end/)                                                                                 | [Solution](3133-minimum-array-end/solution.cpp)                                         |
 
 ## Technical Details
 
