@@ -44,6 +44,7 @@ leetcode-solutions/
 | 2024-11-23 | 1861           | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/)                                                                                   | [Solution](1861-rotating-the-box/solution.cpp)                                          |
 | 2024-11-24 | 1975           | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)                                                                               | [Solution](1975-maximum-matrix-sum/solution.cpp)                                        |
 | 2024-11-25 | 773            | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)                                                                                       | [Solution](773-sliding-puzzle/solution.cpp)                                             |
+| 2024-11-26 | 2924           | [Find Champion II](https://leetcode.com/problems/find-champion-ii/)                                                                                   | [Solution](2924-find-champion-ii/solution.cpp)                                          |
 
 ## Technical Details
 
