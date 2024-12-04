@@ -37,6 +37,7 @@ leetcode-solutions/
 | 2024-11-16 | 3254           | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)                                           | [Solution](3254-find-the-power-of-k-size-subarrays-i/solution.cpp)                      |
 | 2024-11-17 | 862            | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)                                         | [Solution](862-shortest-subarray-with-sum-at-least-k/solution.cpp)                      |
 | 2024-11-18 | 1652           | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)                                                                                     | [Solution](1652-defuse-the-bomb/solution.cpp)                                           |
+| 2024-11-19 | 2461           | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)                     | [Solution](2461-maximum-sum-of-distinct-subarrays-with-length-k/solution.cpp)           |
 
 ## Technical Details
 
