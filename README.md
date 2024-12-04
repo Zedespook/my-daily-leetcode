@@ -51,6 +51,7 @@ leetcode-solutions/
 | 2024-11-30 | 2097           | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)                                                                     | [Solution](2097-valid-arrangement-of-pairs/solution.cpp)                                   |
 | 2024-12-01 | 1346           | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)                                                           | [Solution](1346-check-if-n-and-its-double-exist/solution.cpp)                              |
 | 2024-12-02 | 1455           | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Solution](1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/solution.cpp) |
+| 2024-12-03 | 2109           | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)                                                                       | [Solution](2109-adding-spaces-to-a-string/solution.cpp)                                    |
 
 ## Technical Details
 
