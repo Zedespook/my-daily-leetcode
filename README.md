@@ -45,6 +45,7 @@ leetcode-solutions/
 | 2024-11-24 | 1975           | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)                                                                               | [Solution](1975-maximum-matrix-sum/solution.cpp)                                        |
 | 2024-11-25 | 773            | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)                                                                                       | [Solution](773-sliding-puzzle/solution.cpp)                                             |
 | 2024-11-26 | 2924           | [Find Champion II](https://leetcode.com/problems/find-champion-ii/)                                                                                   | [Solution](2924-find-champion-ii/solution.cpp)                                          |
+| 2024-11-27 | 3243           | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)                     | [Solution](3243-shortest-distance-after-road-addition-queries-i/solution.cpp)           |
 
 ## Technical Details
 
