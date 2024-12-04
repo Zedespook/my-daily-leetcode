@@ -4,6 +4,8 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 **Current Daily Streak: 30 days** 🔥
 
+**[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 0**
+
 ## What is LeetCode?
 
 [LeetCode](https://leetcode.com) is a platform for preparing technical coding interviews. It features a vast collection of coding challenges covering various topics including algorithms, data structures, database queries, and system design.
