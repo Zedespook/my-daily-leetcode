@@ -46,6 +46,7 @@ leetcode-solutions/
 | 2024-11-25 | 773            | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)                                                                                       | [Solution](773-sliding-puzzle/solution.cpp)                                             |
 | 2024-11-26 | 2924           | [Find Champion II](https://leetcode.com/problems/find-champion-ii/)                                                                                   | [Solution](2924-find-champion-ii/solution.cpp)                                          |
 | 2024-11-27 | 3243           | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)                     | [Solution](3243-shortest-distance-after-road-addition-queries-i/solution.cpp)           |
+| 2024-11-28 | 2290           | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)                                   | [Solution](2290-minimum-obstacle-removal-to-reach-corner/solution.cpp)                  |
 
 ## Technical Details
 
