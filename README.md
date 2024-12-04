@@ -40,6 +40,7 @@ leetcode-solutions/
 | 2024-11-19 | 2461           | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)                     | [Solution](2461-maximum-sum-of-distinct-subarrays-with-length-k/solution.cpp)           |
 | 2024-11-20 | 2516           | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)                           | [Solution](2516-take-k-of-each-character-from-left-and-right/solution.cpp)              |
 | 2024-11-21 | 2257           | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)                                                 | [Solution](2257-count-unguarded-cells-in-the-grid/solution.cpp)                         |
+| 2024-11-22 | 1072           | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)                         | [Solution](1072-flip-columns-for-maximum-number-of-equal-rows/solution.cpp)             |
 
 ## Technical Details
 
