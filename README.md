@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
-**Current Daily Streak: 30 days** 🔥
+**Current Daily Streak: 31 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 0**
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 Solutions are organized by problem number and name:
 
 ```
-leetcode-solutions/
+my-daily-leetcode/
 ├── 1-two-sum/
 │   └── solution.cpp
 ├── 2-add-two-numbers/
@@ -57,6 +57,7 @@ leetcode-solutions/
 | 2024-12-02 | 1455           | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Solution](1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/solution.cpp) |
 | 2024-12-03 | 2109           | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)                                                                       | [Solution](2109-adding-spaces-to-a-string/solution.cpp)                                    |
 | 2024-12-04 | 2825           | [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)                       | [Solution](2825-make-string-a-subsequence-using-cyclic-increments/solution.cpp)            |
+| 2024-12-05 | 2337           | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                                             | [Solution](2337-move-pieces-to-obtain-a-string/solution.cpp)                               |
 
 ## Technical Details
 
