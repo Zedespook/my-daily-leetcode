@@ -58,6 +58,7 @@ my-daily-leetcode/
 | 2024-12-03 | 2109           | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)                                                                       | [Solution](2109-adding-spaces-to-a-string/solution.cpp)                                    |
 | 2024-12-04 | 2825           | [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)                       | [Solution](2825-make-string-a-subsequence-using-cyclic-increments/solution.cpp)            |
 | 2024-12-05 | 2337           | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                                             | [Solution](2337-move-pieces-to-obtain-a-string/solution.cpp)                               |
+| 2024-12-06 | 2554           | [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i)                    | [Solution](2554-maximum-number-of-integers-to-choose-from-a-range-i/solution.cpp)          |
 
 ## Technical Details
 
