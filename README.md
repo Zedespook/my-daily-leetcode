@@ -61,6 +61,7 @@ my-daily-leetcode/
 | 2024-12-06 | 2554           | [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i)                    | [Solution](2554-maximum-number-of-integers-to-choose-from-a-range-i/solution.cpp)          |
 | 2024-12-07 | 1760           | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)                                                           | [Solution](1760-minimum-limit-of-balls-in-a-bag/solution.cpp)                              |
 | 2024-12-08 | 2054           | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/)                                                           | [Solution](2054-two-best-non-overlapping-events/solution.cpp)                              |
+| 2024-12-09 | 3152           | [Special Array II](https://leetcode.com/problems/special-array-ii/)                                                                                         | [Solution](3152-special-array-ii/solution.cpp)                                             |
 
 ## Technical Details
 
