@@ -63,6 +63,7 @@ my-daily-leetcode/
 | 2024-12-08 | 2054           | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/)                                                           | [Solution](2054-two-best-non-overlapping-events/solution.cpp)                              |
 | 2024-12-09 | 3152           | [Special Array II](https://leetcode.com/problems/special-array-ii/)                                                                                         | [Solution](3152-special-array-ii/solution.cpp)                                             |
 | 2024-12-10 | 2981           | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)                   | [Solution](2981-find-longest-special-substring-that-occurs-thrice-i/solution.cpp)          |
+| 2024-12-11 | 2779           | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)                   | [Solution](2779-maximum-beauty-of-an-array-after-applying-operation/solution.cpp)          |
 
 ## Technical Details
 
