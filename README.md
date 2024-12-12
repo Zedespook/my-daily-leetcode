@@ -64,6 +64,7 @@ my-daily-leetcode/
 | 2024-12-09 | 3152           | [Special Array II](https://leetcode.com/problems/special-array-ii/)                                                                                         | [Solution](3152-special-array-ii/solution.cpp)                                             |
 | 2024-12-10 | 2981           | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)                   | [Solution](2981-find-longest-special-substring-that-occurs-thrice-i/solution.cpp)          |
 | 2024-12-11 | 2779           | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)                   | [Solution](2779-maximum-beauty-of-an-array-after-applying-operation/solution.cpp)          |
+| 2024-12-12 | 2558           | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)                                                         | [Solution](2558-take-gifts-from-the-richest-pile/solution.cpp)                             |
 
 ## Technical Details
 
