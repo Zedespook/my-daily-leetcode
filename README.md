@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
-**Current Daily Streak: 38 days** 🔥
+**Current Daily Streak: 39 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 0**
 
@@ -65,6 +65,7 @@ my-daily-leetcode/
 | 2024-12-10 | 2981           | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)                   | [Solution](2981-find-longest-special-substring-that-occurs-thrice-i/solution.cpp)          |
 | 2024-12-11 | 2779           | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)                   | [Solution](2779-maximum-beauty-of-an-array-after-applying-operation/solution.cpp)          |
 | 2024-12-12 | 2558           | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)                                                         | [Solution](2558-take-gifts-from-the-richest-pile/solution.cpp)                             |
+| 2024-12-13 | 2593           | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)                       | [Solution](2593-find-score-of-an-array-after-marking-all-elements/solution.cpp)            |
 
 ## Technical Details
 
