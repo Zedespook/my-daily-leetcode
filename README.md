@@ -67,6 +67,7 @@ my-daily-leetcode/
 | 2024-12-12 | 2558           | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)                                                         | [Solution](2558-take-gifts-from-the-richest-pile/solution.cpp)                             |
 | 2024-12-13 | 2593           | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)                       | [Solution](2593-find-score-of-an-array-after-marking-all-elements/solution.cpp)            |
 | 2024-12-14 | 2762           | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)                                                                                 | [Solution](2762-continuous-subarrays/solution.cpp)                                         |
+| 2024-12-15 | 1792           | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)                                                                     | [Solution](1792-maximum-average-pass-ratio/solution.cpp)                                   |
 
 ## Technical Details
 
