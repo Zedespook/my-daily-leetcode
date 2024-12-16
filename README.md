@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
-**Current Daily Streak: 40 days** 🔥
+**Current Daily Streak: 42 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 0**
 
@@ -72,6 +72,7 @@ solutions/
 | 2024-12-13 | 2593           | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)                       | [Solution](solutions/cpp/2593-find-score-of-an-array-after-marking-all-elements/solution.cpp)            |
 | 2024-12-14 | 2762           | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)                                                                                 | [Solution](solutions/cpp/2762-continuous-subarrays/solution.cpp)                                         |
 | 2024-12-15 | 1792           | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)                                                                     | [Solution](solutions/cpp/1792-maximum-average-pass-ratio/solution.cpp)                                   |
+| 2024-12-16 | 3264           | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)               | [Solution](solutions/cpp/3264-final-array-state-after-k-multiplication-operations-i/solution.cpp)        |
 
 ## Personal Goals
 
