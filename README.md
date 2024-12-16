@@ -73,15 +73,6 @@ solutions/
 | 2024-12-14 | 2762           | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)                                                                                 | [Solution](solutions/cpp/2762-continuous-subarrays/solution.cpp)                                         |
 | 2024-12-15 | 1792           | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)                                                                     | [Solution](solutions/cpp/1792-maximum-average-pass-ratio/solution.cpp)                                   |
 
-## Technical Details
-
-All solutions are written in C++23 and compiled with the following specifications:
-
-- Compiler: Clang 19
-- Standard Library: libstdc++ (GCC 14)
-- Optimization Level: -O2
-- AddressSanitizer: Enabled
-
 ## Personal Goals
 
 - Improve problem-solving skills through consistent practice
