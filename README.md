@@ -2,9 +2,9 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
-**Current Daily Streak: 42 days** 🔥
+**Current Daily Streak: 43 days** 🔥
 
-**[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 0**
+**[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 1**
 
 ## What is LeetCode?
 
@@ -73,6 +73,7 @@ solutions/
 | 2024-12-14 | 2762           | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)                                                                                 | C++      | [Solution](solutions/cpp/2762-continuous-subarrays/solution.cpp)                                         |
 | 2024-12-15 | 1792           | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)                                                                     | C++      | [Solution](solutions/cpp/1792-maximum-average-pass-ratio/solution.cpp)                                   |
 | 2024-12-16 | 3264           | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)               | C++      | [Solution](solutions/cpp/3264-final-array-state-after-k-multiplication-operations-i/solution.cpp)        |
+| 2024-12-17 | 2182           | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/)                                                     | C++      | [Solution](solutions/cpp/2182-construct-string-with-repeat-limit/solution.cpp)                           |
 
 ## Personal Goals
 
