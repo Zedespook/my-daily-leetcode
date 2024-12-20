@@ -76,6 +76,7 @@ solutions/
 | 2024-12-17 | 2182           | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/)                                                     | C++      | [Solution](solutions/cpp/2182-construct-string-with-repeat-limit/solution.cpp)                           |
 | 2024-12-18 | 1475           | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)                             | C++      | [Solution](solutions/cpp/1475-final-prices-with-a-special-discount-in-a-shop/solution.cpp)               |
 | 2024-12-19 | 769            | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)                                                                       | C++      | [Solution](solutions/cpp/769-max-chunks-to-make-sorted/solution.cpp)                                     |
+| 2024-12-20 | 2415           | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)                                                       | C++      | [Solution](solutions/cpp/2415-reverse-odd-levels-of-binary-tree/solution.cpp)                            |
 
 ## Personal Goals
 
