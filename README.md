@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
-**Current Daily Streak: 48 days** 🔥
+**Current Daily Streak: 49 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 2**
 
@@ -79,6 +79,7 @@ solutions/
 | 2024-12-20 | 2415           | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)                                                       | C++      | [Solution](solutions/cpp/2415-reverse-odd-levels-of-binary-tree/solution.cpp)                            |
 | 2024-12-21 | 2872           | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)                                         | C++      | [Solution](solutions/cpp/2872-maximum-number-of-k-divisible-components/solution.cpp)                     |
 | 2024-12-22 | 2940           | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)                                     | C++      | [Solution](solutions/cpp/2940-find-building-where-alice-and-bob-can-meet/solution.cpp)                   |
+| 2024-12-23 | 2471           | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)   | C++      | [Solution](solutions/cpp/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/solution.cpp)  |
 
 ## Personal Goals
 
