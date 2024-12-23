@@ -2,9 +2,9 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
-**Current Daily Streak: 47 days** 🔥
+**Current Daily Streak: 48 days** 🔥
 
-**[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 1**
+**[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 2**
 
 ## What is LeetCode?
 
@@ -78,6 +78,7 @@ solutions/
 | 2024-12-19 | 769            | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)                                                                       | C++      | [Solution](solutions/cpp/769-max-chunks-to-make-sorted/solution.cpp)                                     |
 | 2024-12-20 | 2415           | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)                                                       | C++      | [Solution](solutions/cpp/2415-reverse-odd-levels-of-binary-tree/solution.cpp)                            |
 | 2024-12-21 | 2872           | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)                                         | C++      | [Solution](solutions/cpp/2872-maximum-number-of-k-divisible-components/solution.cpp)                     |
+| 2024-12-22 | 2940           | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)                                     | C++      | [Solution](solutions/cpp/2940-find-building-where-alice-and-bob-can-meet/solution.cpp)                   |
 
 ## Personal Goals
 
