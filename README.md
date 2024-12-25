@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
-**Current Daily Streak: 50 days** 🔥
+**Current Daily Streak: 51 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 2**
 
@@ -81,6 +81,7 @@ solutions/
 | 2024-12-22 | 2940           | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)                                     | C++      | [Solution](solutions/cpp/2940-find-building-where-alice-and-bob-can-meet/solution.cpp)                   |
 | 2024-12-23 | 2471           | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)   | C++      | [Solution](solutions/cpp/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/solution.cpp)  |
 | 2024-12-24 | 3203           | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)                               | C++      | [Solution](solutions/cpp/3203-find-minimum-diameter-after-merging-two-trees/solution.cpp)                |
+| 2024-12-25 | 515            | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)                                                   | C++      | [Solution](solutions/cpp/515-find-largest-value-in-each-tree-row/solution.cpp)                           |
 
 ## Personal Goals
 
