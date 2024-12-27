@@ -83,6 +83,7 @@ solutions/
 | 2024-12-24 | 3203           | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)                               | C++      | [Solution](solutions/cpp/3203-find-minimum-diameter-after-merging-two-trees/solution.cpp)                |
 | 2024-12-25 | 515            | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)                                                   | C++      | [Solution](solutions/cpp/515-find-largest-value-in-each-tree-row/solution.cpp)                           |
 | 2024-12-26 | 494            | [Target Sum](https://leetcode.com/problems/target-sum/)                                                                                                     | C++      | [Solution](solutions/cpp/494-target-sum/solution.cpp)                                                    |
+| 2024-12-27 | 1014           | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)                                                                               | C++      | [Solution](solutions/cpp/1014-best-sightseeing-pair/solution.cpp)                                        |
 
 ## Personal Goals
 
