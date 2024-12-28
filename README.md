@@ -2,9 +2,9 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
-**Current Daily Streak: 52 days** 🔥
+**Current Daily Streak: 54 days** 🔥
 
-**[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 2**
+**[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 3**
 
 ## What is LeetCode?
 
@@ -84,6 +84,7 @@ solutions/
 | 2024-12-25 | 515            | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)                                                   | C++      | [Solution](solutions/cpp/515-find-largest-value-in-each-tree-row/solution.cpp)                           |
 | 2024-12-26 | 494            | [Target Sum](https://leetcode.com/problems/target-sum/)                                                                                                     | C++      | [Solution](solutions/cpp/494-target-sum/solution.cpp)                                                    |
 | 2024-12-27 | 1014           | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)                                                                               | C++      | [Solution](solutions/cpp/1014-best-sightseeing-pair/solution.cpp)                                        |
+| 2024-12-28 | 689            | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)                                     | C++      | [Solution](solutions/cpp/689-maximum-sum-of-3-non-overlapping-subarrays/solution.cpp)                    |
 
 ## Personal Goals
 
