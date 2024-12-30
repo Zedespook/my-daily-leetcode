@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming.
 
-**Current Daily Streak: 55 days** 🔥
+**Current Daily Streak: 56 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 3**
 
@@ -86,6 +86,7 @@ solutions/
 | 2024-12-27 | 1014           | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)                                                                               | C++      | [Solution](solutions/cpp/1014-best-sightseeing-pair/solution.cpp)                                        |
 | 2024-12-28 | 689            | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)                                     | C++      | [Solution](solutions/cpp/689-maximum-sum-of-3-non-overlapping-subarrays/solution.cpp)                    |
 | 2024-12-29 | 1639           | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)       | C++      | [Solution](solutions/cpp/1639-number-of-ways-to-form-target-string-given-dictionary/solution.cpp)        |
+| 2024-12-30 | 2466           | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)                                                         | C++      | [Solution](solutions/cpp/2466-count-ways-to-build-good-strings/solution.cpp)                             |
 
 ## Personal Goals
 
