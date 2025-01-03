@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming. All solutions are implemented in C++.
 
-**Current Daily Streak: 59 days** 🔥
+**Current Daily Streak: 60 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 3**
 
@@ -86,6 +86,7 @@ solutions/
 | 2024-12-31 | 983            | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)                                                                         | [Solution](solutions/cpp/983-minimum-cost-for-tickets/solution.cpp)                                      |
 | 2025-01-01 | 1422           | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                                             | [Solution](solutions/cpp/1422-maximum-score-after-splitting-a-string/solution.cpp)                       |
 | 2025-01-02 | 2559           | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)                                                               | [Solution](solutions/cpp/2559-count-vowel-strings-in-ranges/solution.cpp)                                |
+| 2025-01-03 | 2270           | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)                                                               | [Solution](solutions/cpp/2270-number-of-ways-to-split-array/solution.cpp)                                |
 
 ## Personal Goals
 
