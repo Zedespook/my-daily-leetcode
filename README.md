@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming. All solutions are implemented in C++.
 
-**Current Daily Streak: 60 days** 🔥
+**Current Daily Streak: 61 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 3**
 
@@ -87,6 +87,7 @@ solutions/
 | 2025-01-01 | 1422           | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                                             | [Solution](solutions/1422-maximum-score-after-splitting-a-string/solution.cpp)                       |
 | 2025-01-02 | 2559           | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)                                                               | [Solution](solutions/2559-count-vowel-strings-in-ranges/solution.cpp)                                |
 | 2025-01-03 | 2270           | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)                                                               | [Solution](solutions/2270-number-of-ways-to-split-array/solution.cpp)                                |
+| 2025-01-04 | 1930           | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)                                         | [Solution](solutions/1930-unique-length-3-palindromic-subsequences/solution.cpp)                     |
 
 ## Personal Goals
 
