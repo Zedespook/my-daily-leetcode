@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming. All solutions are implemented in C++.
 
-**Current Daily Streak: 62 days** 🔥
+**Current Daily Streak: 63 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 3**
 
@@ -89,6 +89,7 @@ solutions/
 | 2025-01-03 | 2270           | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)                                                               | [Solution](solutions/2270-number-of-ways-to-split-array/solution.cpp)                                |
 | 2025-01-04 | 1930           | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)                                         | [Solution](solutions/1930-unique-length-3-palindromic-subsequences/solution.cpp)                     |
 | 2025-01-05 | 2381           | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)                                                                                   | [Solution](solutions/2381-shifting-letters-ii/solution.cpp)                                          |
+| 2025-01-06 | 1769           | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)     | [Solution](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/solution.cpp)   |
 
 ## Personal Goals
 
