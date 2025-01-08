@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming. All solutions are implemented in C++.
 
-**Current Daily Streak: 64 days** 🔥
+**Current Daily Streak: 65 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 3**
 
@@ -91,6 +91,7 @@ solutions/
 | 2025-01-05 | 2381           | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)                                                                                   | [Solution](solutions/2381-shifting-letters-ii/solution.cpp)                                          |
 | 2025-01-06 | 1769           | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)     | [Solution](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/solution.cpp)   |
 | 2025-01-07 | 1408           | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                                   | [Solution](solutions/1408-string-matching-in-an-array/solution.cpp)                                  |
+| 2025-01-08 | 3042           | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)                                                           | [Solution](solutions/3042-count-prefix-and-suffix-pairs-i/solution.cpp)                              |
 
 ## Personal Goals
 
