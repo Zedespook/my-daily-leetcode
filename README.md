@@ -92,6 +92,7 @@ solutions/
 | 2025-01-06 | 1769           | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)     | [Solution](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/solution.cpp)   |
 | 2025-01-07 | 1408           | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                                   | [Solution](solutions/1408-string-matching-in-an-array/solution.cpp)                                  |
 | 2025-01-08 | 3042           | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)                                                           | [Solution](solutions/3042-count-prefix-and-suffix-pairs-i/solution.cpp)                              |
+| 2025-01-09 | 2185           | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)                                                     | [Solution](solutions/2185-counting-words-with-a-given-prefix/solution.cpp)                           |
 
 ## Personal Goals
 
