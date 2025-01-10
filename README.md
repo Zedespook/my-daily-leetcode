@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming. All solutions are implemented in C++.
 
-**Current Daily Streak: 65 days** 🔥
+**Current Daily Streak: 67 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 3**
 
@@ -93,6 +93,7 @@ solutions/
 | 2025-01-07 | 1408           | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                                   | [Solution](solutions/1408-string-matching-in-an-array/solution.cpp)                                  |
 | 2025-01-08 | 3042           | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)                                                           | [Solution](solutions/3042-count-prefix-and-suffix-pairs-i/solution.cpp)                              |
 | 2025-01-09 | 2185           | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)                                                     | [Solution](solutions/2185-counting-words-with-a-given-prefix/solution.cpp)                           |
+| 2025-01-10 | 916            | [Word Subsets](https://leetcode.com/problems/word-subsets/)                                                                                                 | [Solution](solutions/916-word-subsets/solution.cpp)                                                  |
 
 ## Personal Goals
 
