@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming. All solutions are implemented in C++.
 
-**Current Daily Streak: 69 days** 🔥 (nice)
+**Current Daily Streak: 70 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 3**
 
@@ -96,6 +96,7 @@ solutions/
 | 2025-01-10 | 916            | [Word Subsets](https://leetcode.com/problems/word-subsets/)                                                                                                 | [Solution](solutions/916-word-subsets/solution.cpp)                                                  |
 | 2025-01-11 | 1400           | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)                                                             | [Solution](solutions/1400-construct-k-palindrome-strings/solution.cpp)                               |
 | 2025-01-12 | 2116           | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)                                     | [Solution](solutions/2116-check-if-a-parentheses-string-can-be-valid/solution.cpp)                   |
+| 2025-01-13 | 3223           | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)                                       | [Solution](solutions/3223-minimum-length-of-string-after-operations/solution.cpp)                    |
 
 ## Personal Goals
 
