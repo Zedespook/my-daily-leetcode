@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, documenting my journey through algorithmic problem-solving and competitive programming. All solutions are implemented in C++.
 
-**Current Daily Streak: 73 days** 🔥
+**Current Daily Streak: 74 days** 🔥
 
 **[Time Travel Tickets](https://support.leetcode.com/hc/en-us/articles/14677342930835-What-Are-Time-Travel-Tickets) Used: 3**
 
@@ -100,6 +100,7 @@ solutions/
 | 2025-01-14 | 2657           | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)                                     | [Solution](solutions/2657-find-the-prefix-common-array-of-two-arrays/solution.cpp)                   |
 | 2025-01-15 | 2429           | [Minimize XOR](https://leetcode.com/problems/minimize-xor/)                                                                                                 | [Solution](solutions/2429-minimize-xor/solution.cpp)                                                 |
 | 2025-01-16 | 2425           | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)                                                                   | [Solution](solutions/2425-bitwise-xor-of-all-pairings/solution.cpp)                                  |
+| 2025-01-17 | 2683           | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)                                                                           | [Solution](solutions/2683-neighboring-bitwise-xor/solution.cpp)                                      |
 
 ## Personal Goals
 
